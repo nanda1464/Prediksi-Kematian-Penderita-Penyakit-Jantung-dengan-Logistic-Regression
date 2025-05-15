@@ -1,5 +1,6 @@
 # Prediksi-Kematian-Penderita-Penyakit-Jantung-dengan-Logistic-Regression
 Repository ini berisi tugas Machine Learning yang menggunakan algoritma Logistic Regression untuk memprediksi kemungkinan kematian pasien penderita penyakit jantung berdasarkan fitur-fitur klinis.
+Tujuan dari proyek ini adalah membangun model klasifikasi biner yang mampu memprediksi apakah seorang pasien akan mengalami kematian berdasarkan data klinis. Model ini dilatih menggunakan algoritma Logistic Regression, dan dievaluasi dengan berbagai metrik performa.
 
 # Fitur yang digunakan:
   1. Age
@@ -28,5 +29,4 @@ Repository ini berisi tugas Machine Learning yang menggunakan algoritma Logistic
   4. ROC Curve & AUC
   5. Histogram Probabilitas
   6. Mean Squared Error (MSE)
-
 
