@@ -32,10 +32,16 @@ Tujuan dari proyek ini adalah membangun model klasifikasi biner yang mampu mempr
 # Visualisasi 
 * Confusion Matrix
 ![Screenshot 2025-05-06 205028 - Copy](https://github.com/user-attachments/assets/0d092197-ea00-44ce-ae71-4627bdeafaa5)
+
+
 * ROC Curve dan AUC
 ![Screenshot 2025-05-07 162428](https://github.com/user-attachments/assets/e12214a5-17e5-4c30-bd29-28dbfaf593fb)
+
+
 * Histogram Probabilitas
-  ![Screenshot 2025-05-07 163123](https://github.com/user-attachments/assets/5cb2c4a0-4fec-42cf-ba2a-a9c02dbcd1f9)
+![Screenshot 2025-05-07 163123](https://github.com/user-attachments/assets/5cb2c4a0-4fec-42cf-ba2a-a9c02dbcd1f9)
+
+
 * Visualisasi Decision Boundary 2D
 ![Screenshot 2025-05-07 164504](https://github.com/user-attachments/assets/ed2557c5-0d15-4fff-aca2-bc806dc7acf6)
 
