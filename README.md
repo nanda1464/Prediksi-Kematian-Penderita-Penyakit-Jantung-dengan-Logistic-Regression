@@ -30,3 +30,13 @@ Tujuan dari proyek ini adalah membangun model klasifikasi biner yang mampu mempr
   5. Histogram Probabilitas
   6. Mean Squared Error (MSE)
 
+# Visualisasi 
+![Screenshot 2025-05-07 162428](https://github.com/user-attachments/assets/e12214a5-17e5-4c30-bd29-28dbfaf593fb)
+
+
+
+
+
+
+
+
